@@ -50,7 +50,7 @@ persist.data.mode=concurrent
 persist.data.iwlan.enable=true
 
 # FRP
-ro.frp.pst=/dev/block/bootdevice/by-name/config
+#ro.frp.pst=/dev/block/bootdevice/by-name/config
 
 # GPS
 persist.gps.qc_nlp_in_use=1
@@ -122,3 +122,4 @@ persist.timed.enable=true
 
 # WiFi
 wifi.interface=wlan0
+

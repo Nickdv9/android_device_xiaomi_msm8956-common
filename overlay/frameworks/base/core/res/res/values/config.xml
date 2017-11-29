@@ -381,9 +381,6 @@
          For example, a device with Home, Back and Menu keys would set this
          config to 19. -->
     <integer name="config_deviceHardwareKeys">19</integer>
-
-    <!-- Whether notify fingerprint client of successful cancelled authentication -->
-    <bool name="config_notifyClientOnFingerprintCancelSuccess">true</bool>
   
     <!-- Whether cpu boost is enabled for AppLaunch -->
     <bool name="config_enableCpuBoostForAppLaunch">true</bool>
@@ -461,4 +458,3 @@
     </integer-array>
 
 </resources>
-

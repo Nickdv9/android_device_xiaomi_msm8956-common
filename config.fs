@@ -1,5 +1,5 @@
-[AID_QCOM_DIAG]
-value:2950
+#[AID_QCOM_DIAG]
+#value:2950
 
 [AID_RFS]
 value:2951
